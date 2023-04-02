@@ -7,7 +7,7 @@ public class Main {
 
      Sun sun1 = new Sun();
      sun1.color = "orange";
-     sun1.temperature = 12345;
+     sun1.temperature = "12345";
 
     }
 }
